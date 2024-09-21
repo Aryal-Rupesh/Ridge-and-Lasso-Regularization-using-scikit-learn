@@ -1,0 +1,1 @@
+This repository implements linear regression in three variations: without regularization, with ridge regularization, and with lasso regularization, utilizing the scikit-learn library. Each approach is compared in terms of the shrinkage of coefficients. The results demonstrate the effectiveness of ridge and lasso in reducing overfitting by penalizing large coefficients.
